@@ -26,7 +26,6 @@ project-root/
 - Node.js 18+
 - MySQL Server
 - Maven
-
 ---
 
 ### Backend Setup
